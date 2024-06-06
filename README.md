@@ -1,2 +1,2 @@
 # UWOS
-Arch PostSetup Script
+Arch PostSetup scripts in Bash & ZSH
